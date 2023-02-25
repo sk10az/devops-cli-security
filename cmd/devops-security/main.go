@@ -2,7 +2,7 @@ package main
 
 import "github.com/sirupsen/logrus"
 
-const AppName = "devops-security"
+const AppName = "devops-security-cli"
 
 var logger = logrus.New()
 var config *Config = nil
